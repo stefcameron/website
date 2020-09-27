@@ -1,0 +1,7 @@
+home/_site
+home/.sass-cache
+home/.jekyll-cache
+home/.jekyll-metadata
+vendor
+.vscode
+.DS_Store

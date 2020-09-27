@@ -1,0 +1,94 @@
+---
+layout: default
+isHome: true
+---
+
+<div id="wrapper">
+  <div id="bg"></div>
+  <div id="overlay"></div>
+  <div id="main">
+
+    <!-- Header -->
+    <header id="header">
+      <h1>{{ site.name }}</h1>
+      <p>
+        Lead Technical Engineer &nbsp;&bull;&nbsp;
+        Full Stack JavaScript Expert &nbsp;&bull;&nbsp;
+        Quality Champion &nbsp;&bull;&nbsp;
+        Health &amp; Fitness Advocate
+      </p>
+      <nav>
+        <ul>
+          <li>
+            <a
+              class="icon brands fa-linkedin"
+              href="https://www.linkedin.com/in/stefancameron"
+              title="Career"
+            >
+              <span class="label">Career</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="icon brands fa-js-square"
+              href="https://gitlab.com/stefcameron/rtvjs"
+              title="Runtime Verification Library for JavaScript"
+            >
+              <span class="label">RTV.js</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="icon brands fa-github"
+              href="https://github.com/stefcameron"
+              title="Projects and Contributions"
+            >
+              <span class="label">Github</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="icon brands fa-strava"
+              href="https://www.strava.com/athletes/stefcameron"
+              title="Cycling and Running"
+            >
+              <span class="label">Sports</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="icon solid fa-rss"
+              href="https://github.com/stefcameron/website/blob/master/README.md"
+              title="Blog"
+            >
+              <span class="label">Blog</span>
+            </a>
+          </li>
+          <li>
+            <a
+              class="icon brands fa-wpforms"
+              href="https://forms.stefcameron.com/"
+              title="XFA Forms Blog"
+            >
+              <span class="label">XFA Forms Blog</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Footer -->
+    <footer id="footer">
+      <span class="copyright">
+        &copy; <a href="https://twitter.com/stefcameron" title="Twitter">{{ site.name }}</a>.
+        Design Template: <a href="http://html5up.net/" target="_blank">HTML5 UP</a>.
+      </span>
+    </footer>
+
+  </div>
+</div>
+<script>
+  window.onload = function() { document.body.classList.remove('is-preload'); };
+  window.ontouchmove = function() { return false; };
+  window.onorientationchange = function() { document.body.scrollTop = 0; };
+</script>
