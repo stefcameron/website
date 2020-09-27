@@ -8,7 +8,7 @@ updated: '2020/06/18'
 ```
 </details>
 
-Google Maps isn't the best tool for doing what I need to do: Mapping out a 21km half marathon training route).
+Google Maps isn't the best tool for doing what I need to do: Mapping out a 21km half marathon training route.
 
 Instead, check out [Strava's Route Builder](https://www.strava.com/athlete/routes) or [RideWithGPS](http://ridewithgps.com/). RideWithGPS probably has the best mapping tool in the industry, even though their webapp is focused only on cycling; but you can still use the map tool to build a running route.
 
