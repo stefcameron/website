@@ -4,5 +4,12 @@ I use this repository as my blog, and issues for discussions on blog posts. Keep
 
 ## Blog
 
-- [Jest run in-band](blog/jest-run-in-band.md)
+Listed in descending order (most recent at the top):
 
+- [Activity mapping tools](blog/activity-mapping-tools.md)
+- [Webpack Terser tree shaking](blog/webpack-terser-tree-shaking.md)
+- [Jest parameterized tests](blog/jest-parameterized-tests.md)
+- [Jest toBeDefined expectation](blog/jest-to-be-defined-expectation.md)
+- [Why use the React Testing Library?](blog/why-use-react-testing-library.md)
+- [ESLint disabled rule comments](blog/eslint-disabled-rule-comments.md)
+- [Jest run in-band](blog/jest-run-in-band.md)
