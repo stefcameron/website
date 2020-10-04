@@ -6,6 +6,7 @@ I use this repository as my blog, and issues for discussions on blog posts. Keep
 
 Listed in descending order (most recent at the top):
 
+- [focus-trap-react 7.0.0 published!](blog/focus-trap-react-700.md)
 - [CSS-in-JS support in DevTools](blog/css-in-js-devtools-support.md)
 - [focus-trap-react](blog/focus-trap-react.md)
 - [Activity mapping tools](blog/activity-mapping-tools.md)
