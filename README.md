@@ -6,6 +6,7 @@ I use this repository as my blog, and issues for discussions on blog posts. Keep
 
 Listed in descending order (most recent at the top):
 
+- [React DevTools break on warnings](blog/react-devtools-break-on-warnings.md)
 - [Audio editing headphones](blog/audio-editing-headphones.md)
 - [Audio compression 101](blog/audio-compression-101.md)
 - [focus-trap-react 7.0.0 published!](blog/focus-trap-react-700.md)
