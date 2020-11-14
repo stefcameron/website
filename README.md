@@ -6,6 +6,7 @@ I use this repository as my blog, and issues for discussions on blog posts. Keep
 
 Listed in descending order (most recent at the top):
 
+- [Generate a number sequence](blog/number-sequence-generator.md)
 - [Bulk Merger](blog/bulk-merger.md)
 - [Merging GitHub PRs in bulk](blog/bulk-github-pr-merging.md)
 - [React DevTools break on warnings](blog/react-devtools-break-on-warnings.md)
