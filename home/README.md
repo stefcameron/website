@@ -6,6 +6,13 @@ Personal website home page.
 
 Built with https://jekyllrb.com/
 
+### Install Dependencies
+
+```bash
+$ cd home
+$ bundle install
+```
+
 ### Local Development
 
 ```bash
