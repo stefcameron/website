@@ -17,7 +17,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stefancameron.com' # the base hostname & protocol for your site, e.g. http://example.com
 name: 'Stefan Cameron'
 
-googleAnalytics: 'UA-166041501-1'
+googleAnalytics: 'G-VVFTDCMWXS'
 
 #
 # Page settings
