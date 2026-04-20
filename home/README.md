@@ -17,7 +17,7 @@ $ bundle install
 
 ```bash
 $ cd home
-$ jekyll server
+$ bundle exec jekyll serve
 ```
 
 Open your browser to http://localhost:4000
@@ -28,7 +28,7 @@ Build the site in `production` mode:
 
 ```bash
 $ cd home
-$ JEKYLL_ENV=production jekyll build
+$ JEKYLL_ENV=production bundle exec jekyll build
 ```
 
 Then `rsync` or `scp` up to the web server:
